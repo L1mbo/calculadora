@@ -3,6 +3,7 @@
 <title>CALCULADORA</title> 
 </head>
 <?php 
+print"Cambio de goncami en la rama gonzalo";
 	// Valores iniciales 
 	if (!isset ($_POST[estado]) ) {
 		$estado = 1;	$op = '';	$op1 = 0;	$op2 = 0; $resultado = 0; 		$coma = false;
