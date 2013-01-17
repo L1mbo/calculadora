@@ -4,6 +4,7 @@
 </head>
 <?php 
 	print("texto para commit GitHub");
+	print("texto para commit 2 GitHub");
 	// Valores iniciales 
 	if (!isset ($_POST[estado]) ) {
 		$estado = 1;	$op = '';	$op1 = 0;	$op2 = 0; $resultado = 0; 		$coma = false;
